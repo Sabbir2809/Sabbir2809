@@ -7,6 +7,8 @@
 
 - 🌱 I'm currently Learning **What i Need** 🤣
 - 💻 Most used code `console.log()`
+- 💻 Most used command `npx create-react-app`
+- 💻 Most used command `npm start`
 - 🎯 2021 Goals: MEAN stack
 - ⚡ Fun Fact: I love to Play Cricket🏏, FootBall⚽
 
