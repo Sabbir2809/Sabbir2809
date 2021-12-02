@@ -5,13 +5,6 @@
 
 ## I'm a 😍React😍 Lover
 
-- 🌱 I'm currently Learning **What i Need** 🤣
-- 💻 Most used code `console.log()`
-- 💻 Most used command `npx create-react-app`
-- 💻 Most used command `npm start`
-- 🎯 2021 Goals: MEAN stack
-- ⚡ Fun Fact: I love to Play Cricket🏏, FootBall⚽
-
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Sabbir2809)
