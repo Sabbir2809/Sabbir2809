@@ -1,7 +1,7 @@
 <h1>As-salamu Alaykum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Front-End Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of HTML, CSS, Bootstrap, and JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
 
-- 👨‍💻 All of my projects are available at [https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)
 
 - 📫 How to reach me **sabbirto13@gmail.com**
 
