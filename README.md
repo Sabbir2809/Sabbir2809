@@ -1,12 +1,8 @@
 <h1 align="center">As-salamu alaykum (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
 
-<p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Front-End Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of HTML, CSS, Bootstrap, and JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
+<p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
 
 <h2 align="left">Connect with me:</h2>
-
-- 👨‍💻 My Portfolio [https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)
-
-- 📫 How to reach me **sabbirto13@gmail.com**
 
 <p align="center">
 <a href="https://linkedin.com/in/sabbir2809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" /></a>
@@ -14,6 +10,9 @@
 <a href="https://www.hackerrank.com/sabbir2809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sabbir2809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabbir2809" height="30" width="40" /></a>
 </p>
+
+- 👨‍💻 My Portfolio **[https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)**
+- 📫 How to reach me **sabbirto13@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
 <h5 align="center">
@@ -41,6 +40,5 @@
 <h2 align="left">My GitHub Stats:</h2>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sabbir2809&count_private=ture&show_icons=true&theme=gotham" alt="sabbir2809" height="50%" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir2809&layout=compact&theme=gotham" alt="languages" height="50%" width="50%"/>
 </p>
 
