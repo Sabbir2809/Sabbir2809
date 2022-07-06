@@ -5,19 +5,22 @@
 
 <h2>Connect with me</h2>
 <p align="center">
+  <a href="mailto:sabbirto13@gmail.com" >
+    <img align="center" alt="TienHuynh-TN | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+  
   <a href="https://fb.com/sabbir2809" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" />
   </a>
+  
   <a href="https://linkedin.com/in/sabbir2809" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" />
   </a>
+  
+  - 👨‍💻 My Portfolio **[https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)**
+  
 </p>
-
 <br>
-
-- 👨‍💻 My Portfolio **[https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)**
-
-- 📫 How to reach me **sabbirto13@gmail.com**
 
 
 <h2>🛠️ My Skills</h2>
