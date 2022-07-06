@@ -6,10 +6,10 @@
   </p>
 </div>
 
-<h2>About</h2>
+<h2>About Me</h2>
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
 
-<h2>Connect with me</h2>
+<h2><img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"> Connect with Me</h2>
 <p align="center">
   <a href="https://fb.com/sabbir2809" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" />
@@ -186,7 +186,7 @@
 <hr>
 
 
-<h2 >📊Github stats</h2>
+<h2><img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"> My Activity</h2>
 <div>
   <p align="center">
     <a href="https://github.com/Sabbir2809/">
