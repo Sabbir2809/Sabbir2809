@@ -22,7 +22,7 @@
 
 <h2>🛠️ My Skills</h2>
 
-<h4  align="center">Programming languages</h4>
+<h3 align="center">Programming languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
@@ -37,7 +37,7 @@
 <hr>
 
 
-<h4  align="center">Competitive Programming & Problem Solving</h4>
+<h3 align="center">Competitive Programming & Problem Solving</h3>
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" height="30" width="40" />
 
@@ -46,7 +46,7 @@
 <hr>
 
 
-<h4  align="center">Frontend Development</h4>
+<h3 align="center">Frontend Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
@@ -61,7 +61,7 @@
 <hr>
 
 
-<h4  align="center">Backend Development</h4>
+<h3 align="center">Backend Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
@@ -76,7 +76,7 @@
 <hr>
 
 
-<h4  align="center">Database</h4>
+<h3 align="center">Database</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 
@@ -87,7 +87,7 @@
 <hr>
 
 
-<h4  align="center">Software & Tools</h4>
+<h3 align="center">Software & Tools</h3>
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
 
@@ -103,7 +103,7 @@
 </p>
 <hr>
 
-<h4  align="center">Operating Systems</h4>
+<h3 align="center">Operating Systems</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
@@ -111,14 +111,14 @@
 </p>
 <hr>
 
-<h4  align="center">Mobile App Development</h4>
+<h3 align="center">Mobile App Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
 </p>
 <hr>
 
 <div>
-  <h2 > 📊 Github stats</h2>
+  <h2 >📊 Github stats</h2>
     <p align="center">
       <a href="https://github.com/Sabbir2809/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=10&theme=gotham&layout=compact&hide_border=true" width="50%" alt="Sabbir2809" /></a>
