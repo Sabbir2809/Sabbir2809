@@ -13,20 +13,20 @@
     <td align="center" width="100">
       <a href="https://fb.com/sabbir2809" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-        <br>Facebook
       </a>
+      <br>Facebook
     </td>
     <td align="center" width="100">
       <a href="mailto:sabbirto13@gmail.com" target="_blank">
         <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="30" width="40"/>
-        <br>Gmail
       </a>
+      <br>Gmail
     </td>
     <td align="center" width="100">
       <a href="https://linkedin.com/in/sabbir2809" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" />
-        <br>LinkedIn
       </a>
+      <br>LinkedIn
     </td>
   </tr>
 </table>
@@ -171,7 +171,7 @@
       <br>Heroku
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
       <br>Netlify
     </td>
   </tr>
