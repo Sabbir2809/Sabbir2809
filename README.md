@@ -89,7 +89,7 @@
 
 <h3 align="center">Software & Tools</h3>
 <p align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
@@ -105,9 +105,8 @@
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
 </p>
 <hr>
 
@@ -121,16 +120,16 @@
   <h2 >📊 Github stats</h2>
     <p align="center">
       <a href="https://github.com/Sabbir2809/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=10&theme=gotham&layout=compact&hide_border=true" width="50%" alt="Sabbir2809" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=10&theme=algolia&layout=compact&hide_border=true" width="50%" alt="Sabbir2809" /></a>
       </p>
       <p align="center">
         <a href="https://github.com/Sabbir2809/">
-          <img src="https://github-readme-stats.vercel.app/api?username=Sabbir2809&show_icons=true&theme=gotham&hide_border=true" width="50%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Sabbir2809&show_icons=true&theme=algolia&hide_border=true" width="50%" />
           </a>
       </p>
       <p align="center">
         <a href="https://github.com/Sabbir2809/">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=gotham&hide_border=true" width="50%"  />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=algolia&hide_border=true" width="50%"  />
         </a>
       </p>
 </div>
