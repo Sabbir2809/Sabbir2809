@@ -5,13 +5,19 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/sabbir2809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" /></a>
-<a href="https://fb.com/sabbir2809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sabbir2809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sabbir2809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabbir2809" height="30" width="40" /></a>
+  <a href="https://fb.com/sabbir2809" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sabbir2809" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" />
+  </a>
 </p>
 
+<br>
+
 - 👨‍💻 My Portfolio **[https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)**
+
+
 - 📫 How to reach me **sabbirto13@gmail.com**
 
 ## 🛠️ My Skills
@@ -27,6 +33,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+<hr>
+
+<h4  align="center">Competitive Programming & Problem Solving</h4>
+<p align="center">
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" height="30" width="40" />
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabbir2809" height="30" width="40" />
 </p>
 
 <hr>
@@ -63,13 +79,6 @@
 
 <hr>
 
-<h4  align="center">Mobile App Development</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
-</p>
-
-<hr>
-
 <h4  align="center">Database</h4>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -87,8 +96,6 @@
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
-
-
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
@@ -100,22 +107,21 @@
 
 <hr>
 
-<h4  align="center">Competitive Programming & Problem Solving</h4>
-<p align="center">
-
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" height="30" width="40" />
-
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabbir2809" height="30" width="40" />
-</p>
-
-<hr>
-
 <h4  align="center">Operating Systems</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
 </p>
+
+<hr>
+
+<h4  align="center">Mobile App Development</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
+</p>
+
+<hr>
 
 <div>
   <h2 > 📊 Github stats </h2>
@@ -133,4 +139,4 @@
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=gotham&hide_border=true" width="50%"  />
         </a>
       </p>
-</div>  
+</div>
