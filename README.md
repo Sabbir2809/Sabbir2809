@@ -1,31 +1,37 @@
 <h1 align="center">As-salamu alaykum (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
 
 <div align="center">
-  <p align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%">
-  </p>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="30%">
 </div>
 
-<h2>About Me</h2>
+<h2>About Me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="30px"></h2>
+
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
 
-<h2><img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"> Connect with Me</h2>
-<p align="center">
-  <a href="https://fb.com/sabbir2809" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" />
-  </a>
-  <a href="mailto:sabbirto13@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-  <a href="https://linkedin.com/in/sabbir2809" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr >
+    <td align="center" width="100">
+      <a href="https://fb.com/sabbir2809" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" /></a>
+      <br>Facebook
+    </td>
+    <td align="center" width="100">
+      <a href="mailto:sabbirto13@gmail.com" >
+      <img align="center" alt="TienHuynh-TN | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
+      <br>Gmail
+    </td>
+    <td align="center" width="100">
+      <a href="https://linkedin.com/in/sabbir2809" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" /></a>
+      <br>LinkedIn
+    </td>
+  </tr>
+</table>
 <br>
 
-<h2>🛠️My Skills</h2>
+<h2>My Skills 🛠️</h2>
 
-#### ✅Programming Languages
+### ✅Programming Languages
 
 <table>
   <tr>
@@ -53,7 +59,7 @@
 </table>
 <hr>
 
-#### ✅Problem Solving
+### ✅Problem Solving
 
 <table>
   <tr>
@@ -69,7 +75,7 @@
 </table>
 <hr>
 
-#### ✅Frontend Development
+### ✅Frontend Development
 
 <table>
   <tr>
@@ -97,7 +103,7 @@
 </table>
 <hr>
 
-#### ✅Backend Development
+### ✅Backend Development
 
 <table>
   <tr>
@@ -125,7 +131,7 @@
 </table>
 <hr>
 
-#### ✅Mobile App Development
+### ✅Mobile App Development
 
 <table>
   <tr>
@@ -137,7 +143,7 @@
 </table>
 <hr>
 
-#### ✅Software & Tools
+### ✅Software & Tools
 
 <table>
   <tr>
@@ -169,7 +175,7 @@
 </table>
 <hr>
 
-#### ✅Operating Systems
+### ✅Operating Systems
 
 <table>
   <tr>
@@ -183,24 +189,19 @@
     </td>
   </tr>
 </table>
-<hr>
+<br>
 
-
-<h2><img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"> My Activity</h2>
+<h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="30px"></h2>
 <div>
   <p align="center">
     <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="50%" alt="Sabbir2809" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="50%" height="5%" />
     </a>
-  </p>
-  <p align="center">
     <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sabbir2809&show_icons=true&theme=algolia&hide_border=true" width="50%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Sabbir2809&show_icons=true&theme=algolia&hide_border=true" width="50%" height="5%" />
     </a>
-  </p>
-  <p align="center">
     <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=algolia&hide_border=true" width="50%"  />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=algolia&hide_border=true"  width="50%" height="5%" />
     </a>
   </p>
 </div>
