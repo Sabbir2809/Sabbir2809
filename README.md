@@ -11,19 +11,22 @@
 <table>
   <tr >
     <td align="center" width="100">
-      <a href="https://fb.com/sabbir2809" {:target="_blank"}>
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" target="_blank" /></a>
-      <br>Facebook
+      <a href="https://fb.com/sabbir2809" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+        <br>Facebook
+      </a>
     </td>
     <td align="center" width="100">
-      <a href="mailto:sabbirto13@gmail.com">
-      <img align="center" alt="Sabbir | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" target="_blank" /></a>
-      <br>Gmail
+      <a href="mailto:sabbirto13@gmail.com" target="_blank">
+        <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="30" width="40"/>
+        <br>Gmail
+      </a>
     </td>
     <td align="center" width="100">
-      <a href="https://linkedin.com/in/sabbir2809">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" target="_blank" /></a>
-      <br>LinkedIn
+      <a href="https://linkedin.com/in/sabbir2809" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" />
+        <br>LinkedIn
+      </a>
     </td>
   </tr>
 </table>
@@ -64,11 +67,11 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" height="30" width="40" />
       <br>Hackerrank
     </td>
     <td align="center" width="100">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabbir2809" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabbir2809" height="30" width="40" />
       <br>Codeforces
     </td>
   </tr>
