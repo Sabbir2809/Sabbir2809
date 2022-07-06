@@ -117,11 +117,20 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
 </p>
 
-<hr>
-
-<!-- ! My Github Profile Statistics-->
-<h2 align="left">My GitHub Stats:</h2>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir2809&count_private=ture&show_icons=true&theme=gotham" alt="sabbir2809" height="50%" width="50%"/>
-</p>
-
+<div>
+  <h2 > 📊 Github stats </h2>
+    <p align="center">
+      <a href="https://github.com/Sabbir2809/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=10&theme=gotham&layout=compact&hide_border=true" width="50%" alt="Sabbir2809" /></a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Sabbir2809/">
+          <img src="https://github-readme-stats.vercel.app/api?username=Sabbir2809&show_icons=true&theme=gotham&hide_border=true" width="50%" />
+          </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Sabbir2809/">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=gotham&hide_border=true" width="50%"  />
+        </a>
+      </p>
+</div>  
