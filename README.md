@@ -1,6 +1,8 @@
 <h1 align="center">As-salamu alaykum (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
 
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<div align="center">
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+</div> 
 
 <h2>About</h2>
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
