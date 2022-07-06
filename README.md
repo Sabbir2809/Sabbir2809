@@ -11,18 +11,18 @@
 <table>
   <tr >
     <td align="center" width="100">
-      <a href="https://fb.com/sabbir2809" target="__blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" /></a>
+      <a href="https://fb.com/sabbir2809" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" target="_blank" /></a>
       <br>Facebook
     </td>
     <td align="center" width="100">
-      <a href="mailto:sabbirto13@gmail.com" target="__blank">
-      <img align="center" alt="Sabbir | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
+      <a href="mailto:sabbirto13@gmail.com">
+      <img align="center" alt="Sabbir | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" target="_blank" /></a>
       <br>Gmail
     </td>
     <td align="center" width="100">
-      <a href="https://linkedin.com/in/sabbir2809" target="__blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/sabbir2809">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" target="_blank" /></a>
       <br>LinkedIn
     </td>
   </tr>
