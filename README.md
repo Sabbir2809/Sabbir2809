@@ -1,24 +1,24 @@
 <h1 align="center">As-salamu alaykum (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
 
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
 <h2>About</h2>
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
 
 <h2>Connect with me</h2>
 <p align="center">
-  <a href="mailto:sabbirto13@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-  
   <a href="https://fb.com/sabbir2809" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir2809" height="30" width="40" />
   </a>
-  
+  <a href="mailto:sabbirto13@gmail.com" >
+    <img align="center" alt="TienHuynh-TN | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
   <a href="https://linkedin.com/in/sabbir2809" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" />
   </a>
-  
-  - 👨‍💻 My Portfolio **[https://sabbir-portfolio.netlify.app/](https://sabbir-portfolio.netlify.app/)**
-  
+  <p align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="25%">
+  </p>
 </p>
 <br>
 
@@ -92,7 +92,7 @@
 
 <h3 align="center">Software & Tools</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"  width="40" height="40"/>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
@@ -123,7 +123,7 @@
   <h2 >📊 Github stats</h2>
     <p align="center">
       <a href="https://github.com/Sabbir2809/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=10&theme=algolia&layout=compact&hide_border=true" width="50%" alt="Sabbir2809" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="50%" alt="Sabbir2809" /></a>
       </p>
       <p align="center">
         <a href="https://github.com/Sabbir2809/">
