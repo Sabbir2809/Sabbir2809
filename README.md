@@ -32,7 +32,7 @@
 </table>
 <br>
 
-<h2>🛠️ My Skills</h2>
+<h2>🛠️ knowledge About / My Skills</h2>
 
 ### ✅Programming Languages
 
@@ -60,7 +60,7 @@
     </td>
   </tr>
 </table>
-<hr>
+
 
 ### ✅Problem Solving
 
@@ -76,7 +76,7 @@
     </td>
   </tr>
 </table>
-<hr>
+
 
 ### ✅Frontend Development
 
@@ -104,7 +104,7 @@
     </td>
   </tr>
 </table>
-<hr>
+
 
 ### ✅Backend Development
 
@@ -132,7 +132,7 @@
     </td>
   </tr>
 </table>
-<hr>
+
 
 ### ✅Mobile App Development
 
@@ -144,7 +144,7 @@
     </td>
   </tr>
 </table>
-<hr>
+
 
 ### ✅Software & Tools
 
@@ -176,7 +176,7 @@
     </td>
   </tr>
 </table>
-<hr>
+
 
 ### ✅Operating Systems
 
