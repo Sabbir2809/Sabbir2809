@@ -183,11 +183,15 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" height="40"/>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" width="40" height="40"/>
       <br>Windows
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="ubuntu" width="40" height="40" />
       <br>Linux
     </td>
   </tr>
