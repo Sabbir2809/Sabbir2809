@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="30%">
 </div>
 
-<h2>About Me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="30px"></h2>
+<h2>👨🏽‍💻 About Me </h2>
 
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
 
@@ -32,7 +32,7 @@
 </table>
 <br>
 
-<h2>My Skills 🛠️</h2>
+<h2>🛠️ My Skills</h2>
 
 ### ✅Programming Languages
 
@@ -198,7 +198,7 @@
 </table>
 <br>
 
-<h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="30px"></h2>
+<h2>📈 My Activity</h2>
 <div>
   <p align="center">
     <a href="https://github.com/Sabbir2809/">
