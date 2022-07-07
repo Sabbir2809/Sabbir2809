@@ -8,7 +8,7 @@
 
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
 
-<table>
+<table align="center">
   <tr >
     <td align="center" width="100">
       <a href="https://fb.com/sabbir2809">
@@ -62,7 +62,7 @@
 </table>
 
 
-### ✅Problem Solving
+### ✅Problem Solving Online Judge
 
 <table>
   <tr>
@@ -130,6 +130,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       <br>MySQL
     </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+      <br>
+    </td>
   </tr>
 </table>
 
@@ -139,7 +143,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
+      <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'  width="40" height="40">
       <br>Android
     </td>
   </tr>
@@ -150,13 +154,21 @@
 
 <table>
   <tr>
-  <td align="center" width="100">
-      <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"  width="40" height="40"/>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png" width="40" height="40"/>
       <br>VS Code
     </td>
     <td align="center" width="100">
+      <img src="https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg" width="40" height="40" />
+      <br>Code::Blocks
+    </td>
+    <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      <br>Git & GitHub
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="40" height="40"/>
+      <br>GitHub
     </td>
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
