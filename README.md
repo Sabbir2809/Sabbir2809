@@ -1,7 +1,7 @@
 <h1 align="center">As-salamu alaykum (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="30%"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="35%"/>
 </div>
 
 <h2>👨🏽‍💻About Me </h2>
@@ -38,7 +38,7 @@
 </table>
 
 <div align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" width="25%"/>
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" width="35%"/>
 </div>
 
 <br>
@@ -227,11 +227,9 @@
 </div>
 <div align="center">
   <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="49%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="50%" />
   </a>
 </div>
-
-<br>
 <br>
 
 <div align="center">
