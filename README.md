@@ -1,10 +1,10 @@
 <h1 align="center">As-salamu alaykum (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="30%">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="30%"/>
 </div>
 
-<h2>👨🏽‍💻 About Me </h2>
+<h2>👨🏽‍💻About Me </h2>
 
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving and Web Developer. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
 
@@ -28,11 +28,22 @@
       </a>
       <br>LinkedIn
     </td>
+    <td align="center" width="100">
+      <a href="https://sabbir-portfolio.netlify.app/">
+        <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Sabbir Portfolio" height="30" width="30"/>
+      </a>
+      <br>Portfolio
+    </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" width="25%"/>
+</div>
+
 <br>
 
-<h2>🛠️ knowledge About / My Skills</h2>
+<h2>🛠️knowledge About / My Skills</h2>
 
 ### ✅Programming Languages
 
@@ -61,7 +72,6 @@
   </tr>
 </table>
 
-
 ### ✅Problem Solving Online Judge
 
 <table>
@@ -76,7 +86,6 @@
     </td>
   </tr>
 </table>
-
 
 ### ✅Frontend Development
 
@@ -104,7 +113,6 @@
     </td>
   </tr>
 </table>
-
 
 ### ✅Backend Development
 
@@ -137,7 +145,6 @@
   </tr>
 </table>
 
-
 ### ✅Mobile App Development
 
 <table>
@@ -148,7 +155,6 @@
     </td>
   </tr>
 </table>
-
 
 ### ✅Software & Tools
 
@@ -189,7 +195,6 @@
   </tr>
 </table>
 
-
 ### ✅Operating Systems
 
 <table>
@@ -210,17 +215,18 @@
 </table>
 <br>
 
-<h2>📈 My Activity</h2>
-<div>
-  <p align="center">
+<h2>📈My Activity</h2>
+
+<div align="center">
     <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="50%" height="5%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Sabbir2809&show_icons=true&theme=algolia&hide_border=true" width="49%"/>
     </a>
     <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sabbir2809&show_icons=true&theme=algolia&hide_border=true" width="50%" height="5%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=algolia&hide_border=true" width="49%"/>
     </a>
-    <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=algolia&hide_border=true"  width="50%" height="5%" />
-    </a>
-  </p>
+</div>
+<div align="center">
+  <a href="https://github.com/Sabbir2809/">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="49%" />
+  </a>
 </div>
