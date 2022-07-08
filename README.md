@@ -232,7 +232,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="51%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="50%" height="50%" />
   </a>
 </div>
 <br>
