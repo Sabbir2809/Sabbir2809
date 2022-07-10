@@ -73,18 +73,6 @@
 </table>
 
 
-### ✅Mobile App Development
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'  width="40" height="40">
-      <br>Android
-    </td>
-  </tr>
-</table>
-
-
 ### ✅Problem Solving Online Judge
 
 <table>
@@ -154,6 +142,18 @@
     <td align="center" width="100">
       <img src="https://img.icons8.com/color/48/000000/npm.png"/>
       <br>
+    </td>
+  </tr>
+</table>
+
+
+### ✅Mobile App Development
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'  width="40" height="40">
+      <br>Android
     </td>
   </tr>
 </table>
