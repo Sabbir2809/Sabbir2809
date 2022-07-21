@@ -1,7 +1,7 @@
 <h1 align="center">As-salamu alaykum (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300px"/>
 </div>
 
 <h2>👨🏽‍💻About Me </h2>
@@ -38,7 +38,7 @@
 </table>
 
 <div align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="63%"/>
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="400px"/>
 </div>
 
 <br>
