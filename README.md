@@ -14,25 +14,21 @@
       <a href="https://fb.com/sabbir2809">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sabbir2809" height="30" width="40"/>
       </a>
-      <br>Facebook
     </td>
     <td align="center" width="100">
       <a href="mailto:sabbirto13@gmail.com">
         <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="sabbirto13" height="30" width="40"/>
       </a>
-      <br>Gmail
     </td>
     <td align="center" width="100">
       <a href="https://linkedin.com/in/sabbir2809">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809" height="30" width="40" />
       </a>
-      <br>LinkedIn
     </td>
     <td align="center" width="100">
       <a href="https://sabbir-portfolio.netlify.app/">
         <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Sabbir Portfolio" height="30" width="30"/>
       </a>
-      <br>Portfolio
     </td>
   </tr>
 </table>
