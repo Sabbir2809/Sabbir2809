@@ -210,7 +210,7 @@
     </td>
     <td align="center" width="100">
       <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="ubuntu" width="40" height="40" />
-      <br>Linux
+      <br>Ubuntu
     </td>
   </tr>
 </table>
