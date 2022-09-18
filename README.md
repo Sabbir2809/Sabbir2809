@@ -41,7 +41,7 @@
 
 <h2>🛠️knowledge About / My Skills</h2>
 
-### ✅Programming Languages
+### Programming Languages
 
 <table>
   <tr>
@@ -69,7 +69,7 @@
 </table>
 
 
-### ✅Problem Solving Online Judge
+### Problem Solving Online Judge
 
 <table>
   <tr>
@@ -84,7 +84,7 @@
   </tr>
 </table>
 
-### ✅Frontend Development
+### Frontend Development
 
 <table>
   <tr>
@@ -111,7 +111,7 @@
   </tr>
 </table>
 
-### ✅Backend Development
+### Backend Development
 
 <table>
   <tr>
@@ -143,7 +143,7 @@
 </table>
 
 
-### ✅Mobile App Development
+### Mobile App Development
 
 <table>
   <tr>
@@ -155,7 +155,7 @@
 </table>
 
 
-### ✅Software & Tools
+### Software & Tools
 
 <table>
   <tr>
@@ -196,7 +196,7 @@
 
 
 
-### ✅Operating Systems
+### Operating Systems
 
 <table>
   <tr>
