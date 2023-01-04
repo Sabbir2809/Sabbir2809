@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300px"/>
 </div>
 
-<div align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="300px"/>
-</div>
-
 <h2>👨🏽‍💻About Me </h2>
 
 <p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving & Web Development. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p>
