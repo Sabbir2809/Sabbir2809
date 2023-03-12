@@ -4,26 +4,26 @@
 </div>
 
 <h2 align='center'>👨‍💻 About Me</h2>
-<table>
+<table  align='center'>
   <tr >
     <td align="center" width="50">
       <a href="https://fb.com/sabbir2809">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sabbir2809"  width="30"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sabbir2809"  width="40"/>
       </a>
     </td>
     <td align="center" width="50">
       <a href="mailto:sabbirto13@gmail.com">
-        <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/c58140b559bf4b3c4d324b8edbd61bc11e7095cf/Assets/Gmail.svg" alt="sabbirto13" width="30"/>
+        <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/c58140b559bf4b3c4d324b8edbd61bc11e7095cf/Assets/Gmail.svg" alt="sabbirto13" width="40"/>
       </a>
     </td>
     <td align="center" width="50">
       <a href="https://linkedin.com/in/sabbir2809">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809"  width="30" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809"  width="40" />
       </a>
     </td>
     <td align="center" width="50">
       <a href="https://sabbir-portfolio.netlify.app/">
-        <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Sabbir Portfolio" width="30"/>
+        <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Sabbir Portfolio" width="40"/>
       </a>
     </td>
   </tr>
