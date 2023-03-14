@@ -75,19 +75,16 @@
     <td align="center" width="70">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="70">
       <img src="https://camo.githubusercontent.com/ea9f2bd60b875bb92c09881cd393bc9e571dc412611eaeec9136097bc1241236/68747470733a2f2f692e696d6775722e636f6d2f4b556c656368482e706e67" alt="ES6" width="45" />
     </td>
+  </tr>
+  <tr>
     <td align="center" width="70">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" />
     </td>
     <td align="center" width="70">
       <img src="https://camo.githubusercontent.com/746e1abc5f49ed2aefab8dbbc86d98f15d017d9f196a0961ab5f88b92cc5d573/68747470733a2f2f692e696d6775722e636f6d2f6d514752366e782e706e67" alt="ES6" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/5526b9681de55342ee69eb322a8bab3840f9565fd31341f0fabefb3f5e6fb77b/68747470733a2f2f692e696d6775722e636f6d2f783645696557632e706e67" alt="react" width="45" />
     </td>
   </tr>
 </table>
@@ -107,14 +104,6 @@
     </td>
     <td align="center" width="70">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://img.icons8.com/color/48/000000/npm.png"/>
     </td>
     <td align="center" width="70">
       <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"/>
@@ -138,14 +127,11 @@
     <td align="center" width="70">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="45" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="70">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" />
     </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="45" />
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="70">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="45" />
     </td>
