@@ -171,6 +171,3 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=algolia&hide_border=true" width="50%"/>
     </a>
 </div>
-<a href="https://github.com/Sabbir2809/">
-      <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
-    </a>
