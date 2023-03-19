@@ -38,7 +38,10 @@
 <table>
   <tr>
     <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45"/>
+      <img src="https://i.ibb.co/y5ZQy5n/Java-Script.png" alt="javascript" width="45"/>
+    </td>
+    <td align="center" width="70">
+        <img src="https://i.ibb.co/VN2LQ48/c.png" alt="c++" width="45"/>
     </td>
     <td align="center" width="70">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45"/>
@@ -64,24 +67,27 @@
 <table>
   <tr>
     <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" />
+      <img src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" />
+      <img src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/2b84b5c1df412d148b94cc56d97441f450e587297545ba2685f24a0abea4e314/68747470733a2f2f692e696d6775722e636f6d2f3035344c545a712e706e67" alt="bootstrap" width="45"  >
+      <img src="https://i.ibb.co/Msy7s6k/Bootsrap.png" alt="bootstrap" width="45"  >
+    </td>
+    <td align="center" width="70">
+      <img src="https://i.ibb.co/nfxyBK4/tailwind.png" alt="bootstrap" width="45"  >
     </td>
     <td align="center" width="70">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
     </td>
-    <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/ea9f2bd60b875bb92c09881cd393bc9e571dc412611eaeec9136097bc1241236/68747470733a2f2f692e696d6775722e636f6d2f4b556c656368482e706e67" alt="ES6" width="45" />
-    </td>
   </tr>
   <tr>
     <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" />
+      <img src="https://camo.githubusercontent.com/ea9f2bd60b875bb92c09881cd393bc9e571dc412611eaeec9136097bc1241236/68747470733a2f2f692e696d6775722e636f6d2f4b556c656368482e706e67" alt="ES6" width="45" />
+    </td>
+    <td align="center" width="70">
+      <img src="https://i.ibb.co/X3bFjB7/react.png" alt="react" width="45" />
     </td>
     <td align="center" width="70">
       <img src="https://camo.githubusercontent.com/746e1abc5f49ed2aefab8dbbc86d98f15d017d9f196a0961ab5f88b92cc5d573/68747470733a2f2f692e696d6775722e636f6d2f6d514752366e782e706e67" alt="ES6" width="45" />
@@ -94,16 +100,16 @@
 <table>
   <tr>
     <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/85e936b78a770a6565cd6a60ab30867922cfdf1ab69ade5e0dd36f0b216b6923/68747470733a2f2f692e696d6775722e636f6d2f6c5061763331652e706e67" alt="nodejs" width="45" />
+      <img src="https://i.ibb.co/SNXx7j6/node.png" alt="nodejs" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/13dcf86b6d12e0fd9cec2a3144b3fefa90cac83e133629902091e5fda9358e0a/68747470733a2f2f692e696d6775722e636f6d2f755477734154542e706e67" alt="express" width="45" />
+      <img src="https://i.ibb.co/KmgyfpD/express.png" alt="express" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/598855eeebcac0e4f1de199659c7b72a67c68491c792d30d46b46d008cbc87c3/68747470733a2f2f692e696d6775722e636f6d2f307a6a446e58772e706e67" alt="mongodb" width="45" />
+      <img src="https://i.ibb.co/88twDYS/mongo.png" alt="mongodb" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" />
+      <img src="https://i.ibb.co/zGy33LP/firebase.png" alt="firebase" width="45" />
     </td>
     <td align="center" width="70">
       <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"/>
