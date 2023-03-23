@@ -41,9 +41,6 @@
       <img src="https://i.ibb.co/y5ZQy5n/Java-Script.png" alt="javascript" width="45"/>
     </td>
     <td align="center" width="70">
-        <img src="https://i.ibb.co/VN2LQ48/c.png" alt="c++" width="45"/>
-    </td>
-    <td align="center" width="70">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45"/>
     </td>
   </tr>
@@ -54,10 +51,14 @@
 <table>
   <tr>
     <td align="center" width="70">
+      <a href="https://www.hackerrank.com/SABBIR2809">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" width="45" />
+        </a>
     </td>
     <td align="center" width="70">
+      <a href="https://codeforces.com/profile/Sabbir2809">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabbir2809" width="45" />
+        </a>
     </td>
   </tr>
 </table>
@@ -67,16 +68,16 @@
 <table>
   <tr>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="45" />
+      <img src="https://user-images.githubusercontent.com/72271158/227155172-bde1ac45-a1c2-4647-ad8d-68d89127f4ce.png" alt="css3" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/Msy7s6k/Bootsrap.png" alt="bootstrap" width="45"  >
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45"  >
     </td>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/nfxyBK4/tailwind.png" alt="bootstrap" width="45"  >
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="bootstrap" width="45"  >
     </td>
     <td align="center" width="70">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
@@ -87,10 +88,10 @@
       <img src="https://camo.githubusercontent.com/ea9f2bd60b875bb92c09881cd393bc9e571dc412611eaeec9136097bc1241236/68747470733a2f2f692e696d6775722e636f6d2f4b556c656368482e706e67" alt="ES6" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/X3bFjB7/react.png" alt="react" width="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/746e1abc5f49ed2aefab8dbbc86d98f15d017d9f196a0961ab5f88b92cc5d573/68747470733a2f2f692e696d6775722e636f6d2f6d514752366e782e706e67" alt="ES6" width="45" />
+      <img src="https://camo.githubusercontent.com/746e1abc5f49ed2aefab8dbbc86d98f15d017d9f196a0961ab5f88b92cc5d573/68747470733a2f2f692e696d6775722e636f6d2f6d514752366e782e706e67" alt="React Bootstrap" width="45" />
     </td>
   </tr>
 </table>
@@ -100,16 +101,16 @@
 <table>
   <tr>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/SNXx7j6/node.png" alt="nodejs" width="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/KmgyfpD/express.png" alt="express" width="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/88twDYS/mongo.png" alt="mongodb" width="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" />
     </td>
     <td align="center" width="70">
-      <img src="https://i.ibb.co/zGy33LP/firebase.png" alt="firebase" width="45" />
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" />
     </td>
     <td align="center" width="70">
       <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"/>
