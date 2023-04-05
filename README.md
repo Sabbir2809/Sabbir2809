@@ -74,16 +74,19 @@
       <img src="https://user-images.githubusercontent.com/72271158/227155172-bde1ac45-a1c2-4647-ad8d-68d89127f4ce.png" alt="css3" width="45" />
     </td>
     <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="45"  >
+    </td>
+    <td align="center" width="70">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45"  >
     </td>
     <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="bootstrap" width="45"  >
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45"  >
     </td>
   </tr>
   <tr>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
+    </td>
     <td align="center" width="70">
       <img src="https://camo.githubusercontent.com/ea9f2bd60b875bb92c09881cd393bc9e571dc412611eaeec9136097bc1241236/68747470733a2f2f692e696d6775722e636f6d2f4b556c656368482e706e67" alt="ES6" width="45" />
     </td>
