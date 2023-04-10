@@ -161,6 +161,17 @@
   </tr>
 </table>
 
+### Operating Systems:
+<table>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/oHTGo/oHTGo/53eeb561426a0878353ed6bad22cbfe79dfa3fcf/images/windows.svg" alt="Windows" width="45" />
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" />
+    </td>
+  </tr>
+</table>
 <br>
 
 <h2 align='center'>🏆 Github Status</h2>
