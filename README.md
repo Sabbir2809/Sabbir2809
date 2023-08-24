@@ -21,15 +21,10 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809"  width="40" />
       </a>
     </td>
-    <td align="center" width="50">
-      <a href="https://sabbir-portfolio.netlify.app/">
-        <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Sabbir Portfolio" width="40"/>
-      </a>
-    </td>
   </tr>
 </table>
 
-<p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving & Web Development. Now, I'm studying at Daffodil International University in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p><br>
+<p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving & Web Development. I have successfully graduated from Daffodil International University with a degree in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p><br>
 
 <h2 align='center'>🛠️ knowledge About</h2>
 
