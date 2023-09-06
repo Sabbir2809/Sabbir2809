@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-<p>I'm a Web Developer. Besides these, I have enriched myself with various skills like Problem Solving & Web Development. I have successfully graduated from Daffodil International University with a degree in the Department of Computer Science and Engineering. I'm a master of JavaScript with the Front-End Library React. I know everything needed to make a website function, efficiently. I have knowledge about Data structure & Algorithm, Discrete mathematics, Database, Networking, Data communication, and Different Programming languages like JavaScript, Java, C/C++.</p><br>
+<p>I'm a Jonior MERN Stack Developer. Besides these, I have enriched myself with various skills like problem-solving and web Development. I have successfully graduated from Daffodil International University with a degree in the Department of Computer Science and Engineering. I'm a master of JavaScript(ES6), React.js, Node.js, Express.js, and MongoDB. I know everything needed to make a website function, efficiently. I have knowledge of Data structure and algorithms and Different Programming languages like JavaScript, and C/C++.</p><br>
 
 <h2 align='center'>🛠️ knowledge About</h2>
 
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-### Problem Solving Online Judge:
+### Problem-Solving Online Judge:
 
 <table>
   <tr>
