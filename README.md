@@ -171,7 +171,7 @@
 
 <h2 align='center'>🏆 Github Status</h2>
 <div align="center">
-    <a href="https://github.com/Sabbir2809/">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir2809&theme=algolia&hide_border=true" width="50%"/>
+    <a href="https://github.com/Sabbir2809">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sabbir2809&include_all_commits=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
     </a>
 </div>
