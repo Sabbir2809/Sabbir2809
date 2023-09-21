@@ -167,10 +167,3 @@
     </td>
   </tr>
 </table>
-<br>
-
-<h2 align='center'>🏆 Github Status</h2>
-<div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2809&layout=compact&show_icon=true&theme=algolia" alt="Sabbir2809-langs"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/?username=Sabbir2809&layout=compact&show_icon=true&theme=algolia" alt="Sabbir2809-stats"/>
-</div>
