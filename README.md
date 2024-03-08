@@ -24,7 +24,8 @@
   </tr>
 </table>
 
-<p>I'm a Jonior MERN Stack Developer. Besides these, I have enriched myself with various skills like problem-solving and web Development. I have successfully graduated from Daffodil International University with a degree in the Department of Computer Science and Engineering. I'm a master of JavaScript(ES6), React.js, Node.js, Express.js, and MongoDB. I know everything needed to make a website function, efficiently. I have knowledge of Data structure and algorithms and Different Programming languages like JavaScript, and C/C++.</p><br>
+<p>
+As a Junior MERN Stack Developer with a degree in Computer Science and Engineering from Daffodil International University, I bring expertise in JavaScript(ES6), React.js, Redux, Node.js, Express.js, MongoDB(Mongoose), PostgreSQL and Prizma. With a strong foundation in data structures, and algorithms, and additional proficiency in languages like C/C++ and TypeScript, I am equipped to efficiently develop and optimize web applications.</p><br>
 
 <h2 align='center'>🛠️ knowledge About</h2>
 
