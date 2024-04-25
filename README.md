@@ -19,7 +19,9 @@
   <a href="https://www.facebook.com/sabbir2809/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="30" alt="facebook logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=sabbirto13@gmail.com&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
+  <a href= "mailto: sabbirto13@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=sabbirto13@gmail.com&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
+  </a>
   <a href="https://www.hackerrank.com/profile/SABBIR2809" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="30" alt="hackerrank logo"  />
   </a>
@@ -150,15 +152,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sabbir2809&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
+  ![sabbir2809's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabbir2809&theme=tokyonight&hide_border=false)
+  
+  ![sabbir2809's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir2809&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir2809&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir2809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbir2809&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
