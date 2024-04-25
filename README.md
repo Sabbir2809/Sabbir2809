@@ -1,170 +1,152 @@
-<h1 align="center">As-salamu alaykum (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
+<h1 align="center">As-salamu alaykum... (ٱلسَّلَامُ عَلَيْكُمْ)</h1>
+
+###
+
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350px"/>
+  <img height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 </div>
 
-<h2 align='center'>👨‍💻 About Me</h2>
-<table  align='center'>
-  <tr >
-    <td align="center" width="50">
-      <a href="https://fb.com/sabbir2809">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sabbir2809"  width="40"/>
-      </a>
-    </td>
-    <td align="center" width="50">
-      <a href="mailto:sabbirto13@gmail.com">
-        <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/c58140b559bf4b3c4d324b8edbd61bc11e7095cf/Assets/Gmail.svg" alt="sabbirto13" width="40"/>
-      </a>
-    </td>
-    <td align="center" width="50">
-      <a href="https://linkedin.com/in/sabbir2809">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir2809"  width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+###
 
-<p>
-As a Junior MERN Stack Developer with a degree in Computer Science and Engineering from Daffodil International University, I bring expertise in JavaScript(ES6), React.js, Redux, Node.js, Express.js, MongoDB(Mongoose), PostgreSQL and Prizma. With a strong foundation in data structures, and algorithms, and additional proficiency in languages like C/C++ and TypeScript, I am equipped to efficiently develop and optimize web applications.</p><br>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<h2 align='center'>🛠️ knowledge About</h2>
+###
 
-### Programming Languages:
+<div align="center">
+  <a href="https://www.linkedin.com/in/sabbir2809/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/sabbir2809/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="30" alt="facebook logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=sabbirto13@gmail.com&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
+  <a href="https://www.hackerrank.com/profile/SABBIR2809" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="30" alt="hackerrank logo"  />
+  </a>
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://i.ibb.co/y5ZQy5n/Java-Script.png" alt="javascript" width="45"/>
-    </td>
-    <td align="center" width="70">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45"/>
-    </td>
-  </tr>
-</table>
+###
 
-### Problem-Solving Online Judge:
+<p align="left">I have completed my Bachelor of Science in the Department of Computer Science and Engineering at Daffodil International University. I have more than 2 years of Web Development experience. Currently, I am with JavaScript(ES6), Typescript, Node.Js Express.Js, MongoDB(Mongoose), PostgreSQL, Prizma, React.Js, Redux, Next.Js and Next.Js. My preferred stack is Javascript and Typescript. I always want to learn new things.</p>
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <a href="https://www.hackerrank.com/SABBIR2809">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir2809" width="45" />
-        </a>
-    </td>
-    <td align="center" width="70">
-      <a href="https://codeforces.com/profile/Sabbir2809">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabbir2809" width="45" />
-        </a>
-    </td>
-  </tr>
-</table>
+###
 
-### Frontend Development:
+<h2 align="center">🛠 Language and tools</h2>
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://user-images.githubusercontent.com/72271158/227155172-bde1ac45-a1c2-4647-ad8d-68d89127f4ce.png" alt="css3" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="45"  >
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45"  >
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45"  >
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/ea9f2bd60b875bb92c09881cd393bc9e571dc412611eaeec9136097bc1241236/68747470733a2f2f692e696d6775722e636f6d2f4b556c656368482e706e67" alt="ES6" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/746e1abc5f49ed2aefab8dbbc86d98f15d017d9f196a0961ab5f88b92cc5d573/68747470733a2f2f692e696d6775722e636f6d2f6d514752366e782e706e67" alt="React Bootstrap" width="45" />
-    </td>
-  </tr>
-</table>
+###
 
-### Backend Development:
+<h3 align="left">Programming Languages:</h3>
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"/>
-    </td>
-  </tr>
-</table>
+###
 
-### Software & Tools:
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://camo.githubusercontent.com/15b485a366b467d9b4a1876a85d48bcbace0174dea745634184e27c2ddb6d8a2/68747470733a2f2f692e696d6775722e636f6d2f30455a576464532e706e67" width="45"  />
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="45" />
-    </td>
-  </tr>
-</table>
+###
 
-### Mobile App Development:
+<h3 align="left">Front-end Development:</h3>
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'  width="45" >
-    </td>
-  </tr>
-</table>
+###
 
-### Operating Systems:
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/oHTGo/oHTGo/53eeb561426a0878353ed6bad22cbfe79dfa3fcf/images/windows.svg" alt="Windows" width="45" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">Back-end Development:</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="40" alt="prisma logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+<h3 align="left">Deploy Server:</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" height="40" alt="heroku logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
+</div>
+
+###
+
+<h3 align="left">Others Software:</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="36" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="36" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="36" alt="git logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="36" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="36" alt="chrome logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="36" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="36" alt="powershell logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="36" alt="vite logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="36" alt="windows8 logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="36" alt="linux logo"  />
+</div>
+
+###
+
+<h2 align="center">🔥   My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sabbir2809&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbir2809&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir2809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbir2809&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
