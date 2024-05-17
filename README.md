@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I have completed my Bachelor of Science in the Department of Computer Science and Engineering at Daffodil International University. I have more than 2 years of Web Development experience. Currently, I am with JavaScript(ES6), Typescript, Node.Js Express.Js, MongoDB(Mongoose), PostgreSQL, Prizma, React.Js, Redux, Next.Js and Next.Js. My preferred stack is Javascript and Typescript. I always want to learn new things.</p>
+<p align="left">My name is Md. Sabbir Hossain and I'm form Singair, Manikganj. I recently completed my Bachelor of Science in Computer Science and Engineering from Daffodil International University. During my university, I was highly interested in programming and web development. That's why I explored this field by doing some courses and achieving some skills like JavaScript(ES6), React.Js, Redux, and Next.Js. Throughout my studies, I've developed a strong foundation in programming and web development, besides all of this I have some additional skills like leadership and good communication as well and I'm a dedicated team player. and I'm eager to apply my skills in a professional field. I always want to learn new things.</p>
 
 ###
 
