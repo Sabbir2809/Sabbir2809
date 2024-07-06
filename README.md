@@ -151,9 +151,12 @@
 
 ###
 
-<div align="center">
-  
-  ![sabbir2809's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabbir2809&theme=tokyonight&hide_border=false)
-  
-  ![sabbir2809's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir2809&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<div align="center" style="width: 100%; display: flex; flex-direction: column; align-items: center;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir2809&theme=tokyonight&hide_border=false" alt="sabbir2809's Streak" style="height: 200px;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir2809&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="sabbir2809's Top Languages" style="height: 200px;">
+
 </div>
+
+
