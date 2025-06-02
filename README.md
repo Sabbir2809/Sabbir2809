@@ -29,7 +29,11 @@
 
 ###
 
-<p align="left">My name is Md. Sabbir Hossain and I'm form Singair, Manikganj. I recently completed my Bachelor of Science in Computer Science and Engineering from Daffodil International University. During my university, I was highly interested in programming and web development. That's why I explored this field by doing some courses and achieving some skills like JavaScript(ES6), React.Js, Redux, and Next.Js. Throughout my studies, I've developed a strong foundation in programming and web development, besides all of this I have some additional skills like leadership and good communication as well and I'm a dedicated team player. and I'm eager to apply my skills in a professional field. I always want to learn new things.</p>
+<p align="left">I’m a Full-Stack Engineer with one year of experience building web apps. I use JavaScript and TypeScript to create fast, user-friendly interfaces with React and Next.js. On the backend, I build APIs and services using Node.js and Express.
+  
+I work with databases like MongoDB and PostgreSQL to store data and make apps work smoothly. For styling, I use Tailwind CSS and popular UI libraries like Material UI and Ant Design to create clean and responsive designs.
+
+I’m comfortable using Git for version control and tools like Postman for testing APIs. I enjoy learning new technologies and collaborating on projects that solve real problems.</p>
 
 ###
 
