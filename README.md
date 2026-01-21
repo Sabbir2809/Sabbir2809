@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Full-Stack%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Software%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 ## 💼 About Me
 
