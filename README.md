@@ -1,14 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Software%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
-
 ## 💼 About Me
 
-Hi there! 👋 I’m **Sabbir**, a motivated **Full Stack Engineer** with **2 years of front-end experience** and growing backend expertise.  
-
-I love **building scalable, high-quality web applications** with clean, maintainable code. Collaborating in **agile teams**, solving real-world problems and turning ideas into functional solutions is my passion.  
-
-I’m constantly learning and exploring new technologies to make better apps and user experiences. 🚀  
-
----
+<img src="https://res.cloudinary.com/dhawyzgll/image/upload/fl_preserve_transparency/v1777274711/fb-banner_nnqad1.jpg?_s=public-apps"  />
 
 ## 📫 Connect with Me
 
@@ -26,8 +18,6 @@ I’m constantly learning and exploring new technologies to make better apps and
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </div>
-
----
 
 ## 🛠️ Technology Skills I Work With
 
@@ -86,9 +76,6 @@ I’m constantly learning and exploring new technologies to make better apps and
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-
----
 
 ## 🔥 GitHub Stats
 
