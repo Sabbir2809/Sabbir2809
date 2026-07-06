@@ -2,24 +2,8 @@
 
 <img src="https://res.cloudinary.com/dhawyzgll/image/upload/fl_preserve_transparency/v1777274711/fb-banner_nnqad1.jpg?_s=public-apps"  />
 
-## 📫 Connect with Me
 
-<div>
-  <a href="https://www.linkedin.com/in/sabbir2809/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-  <a href="https://www.facebook.com/sabbir2809/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-  <a href="mailto:sabbirto13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/SABBIR2809" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-</div>
-
-## 🛠️ Technology Skills I Work With
+## 🛠️ Technical Expertise
 
 ### 💻 Programming Languages
 <p align="left">
